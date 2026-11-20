@@ -1,0 +1,47 @@
+AZ/adoc/about-arc42.adoc
+  s_1935d7a18bb6b1::t_b25d662818884b 13
+AZ/adoc/08_concepts.adoc
+  s_1935d7a18bb6b1::t_b25d662818884b 12,31,41-42
+  s_1935d7a18bb6b1::t_fda04adc6b5776 4,11,15-16,19,22,24,29-30,44,48,52,58,64
+AZ/adoc/05_building_block_view.adoc
+  s_1935d7a18bb6b1::t_b25d662818884b 6,12,24,28,33-34,36,41,58,62,101,161,163-164,169,174,180,187,199,206,211,218,224
+  s_1935d7a18bb6b1::t_fda04adc6b5776 27,30,55,57,78-79
+AZ/adoc/07_deployment_view.adoc
+  s_1935d7a18bb6b1::t_b25d662818884b 6,40,71
+  s_1935d7a18bb6b1::t_3b6caf3bb12231 12,14-15
+  s_1935d7a18bb6b1::t_fda04adc6b5776 19,21,25
+AZ/adoc/11_technical_risks.adoc
+  s_1935d7a18bb6b1::t_b25d662818884b 16
+AZ/adoc/01_introduction_and_goals.adoc
+  s_1935d7a18bb6b1::t_fda04adc6b5776 60,111
+  s_1935d7a18bb6b1::t_b25d662818884b 108,110
+AZ/adoc/12_glossary.adoc
+  s_1935d7a18bb6b1::t_b25d662818884b 18
+AZ/arc42-template.adoc
+  s_1935d7a18bb6b1::t_fda04adc6b5776 69
+  s_1935d7a18bb6b1::t_b25d662818884b 57,65
+AZ/adoc/09_architecture_decisions.adoc
+  s_1935d7a18bb6b1::t_b25d662818884b 14-15
+AZ/adoc/04_solution_strategy.adoc
+  s_1935d7a18bb6b1::t_b25d662818884b 14
+AZ/adoc/06_runtime_view.adoc
+  s_1935d7a18bb6b1::t_b25d662818884b 11,13-14,21-22,46
+AZ/adoc/10_quality_requirements.adoc
+  s_1935d7a18bb6b1::t_b25d662818884b 85,87,97,99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "d76dcaf0c84fca537ea1a3d28b0b107952742030",
+  "prompts": {},
+  "sessions": {
+    "s_1935d7a18bb6b1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f98d-ff20-75d2-b8a6-f5bbd4324c20",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Maharramoff <sh.maharramov@gmail.com>"
+    }
+  }
+}
